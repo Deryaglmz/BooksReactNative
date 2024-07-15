@@ -7,7 +7,7 @@ Proje, kitapların listesini ve detaylarını gösteren bir React Native uygulam
 
 1. Depoyu klonlayın:
    ```sh
-   git clone https://github.com/kullanici-adi/kitap-uygulamasi.git
+   gh repo clone Deryaglmz/BooksReactNative
    ```
 2. Proje dizinine gidin:
    ```sh
